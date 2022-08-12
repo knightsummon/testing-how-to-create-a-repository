@@ -18,3 +18,24 @@ Putting those characters you can see under this line alone in line, pose them at
 ```
 `  input it three times
 ```
+<br/>
+<br/>
+**3.使用mardown换行语法**
+
+**3.Using mardown grammer change to next line**  
+<br/>
+在行末使用两次空格键加一次回车达到换行目的  
+At the end of line, Using space double times and tabbing "Enter" to achieve the aim of changing to next line.  
+<br/>
+<br/>
+**4.使用mardown语法制作表格**  
+**4.Using mardown grammar to make table**  
+<br/>
+```
+|sheet1|sheet2|sheet3|  
+|:-:|:-:|:-:|  
+|one|two|three|  
+|four|five|sixsixsix|  
+```
+<br/>
+<br/>
