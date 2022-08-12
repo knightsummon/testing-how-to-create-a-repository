@@ -12,6 +12,6 @@
 >A )(+=B
 
 |sheet 1|sheet 2|sheet 3|sheet 4|
-|:=:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|
 |one|two|three|sixteen|
 |four|five|six|ten|
